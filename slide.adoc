@@ -1,7 +1,7 @@
 = 2014年工作总结
 徐浩洋
 2015.01.06
-:revealjs_theme: beige
+:revealjs_theme: solarized
 
 == 总结内容
 
